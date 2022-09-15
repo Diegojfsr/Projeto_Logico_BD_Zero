@@ -8,7 +8,7 @@
 
 <h2 dir="auto"> 🎯 Objetivo </h2>
 <ul dir="auto">
- <li> Utilizar o esquema conceitual, criado no desafio de modelagem de BD com modelo ER,. </li>
+ <li> Utilizar o esquema conceitual, criado no desafio de modelagem de BD com modelo ER. </li>
  <li> Criar o esquema lógico para o contexto de uma oficina. </li>
  <li> Definir todas as etapas, desde o esquema até a implementação do banco de dados. </li>
 </ul>
